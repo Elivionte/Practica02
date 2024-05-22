@@ -12,3 +12,7 @@ app.get('/juancarlos',(req, res) => {
 
 app.listen(3000)
 console.log('server on line', 3000)
+
+console.log('robert charles')
+
+console.log('carulos')
